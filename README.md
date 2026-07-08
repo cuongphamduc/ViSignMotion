@@ -1,188 +1,60 @@
 ---
-layout: default
 title: ViSignMotion
 ---
 
-<style>
-  .project-page {
-    max-width: 980px;
-    margin: 0 auto;
-    padding: 32px 20px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    line-height: 1.6;
-  }
+<link rel="stylesheet" href="./style.css">
 
-  .hero {
-    text-align: center;
-    margin-bottom: 36px;
-  }
+<div class="project-page" markdown="1">
 
-  .hero h1 {
-    font-size: 2.4rem;
-    margin-bottom: 12px;
-    line-height: 1.25;
-  }
-
-  .authors,
-  .affiliations,
-  .venue {
-    margin: 8px 0;
-    color: #333;
-  }
-
-  .button-row {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 12px;
-    margin-top: 22px;
-  }
-
-  .project-button {
-    display: inline-block;
-    padding: 10px 18px;
-    border-radius: 999px;
-    background: #222;
-    color: #fff !important;
-    text-decoration: none !important;
-    font-weight: 600;
-    font-size: 0.95rem;
-  }
-
-  .project-button:hover {
-    background: #444;
-  }
-
-  section {
-    margin: 42px 0;
-  }
-
-  section h2 {
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 8px;
-    margin-bottom: 16px;
-  }
-
-  .coming-soon {
-    color: #666;
-    font-style: italic;
-  }
-</style>
-
-<div class="project-page">
-
-<div class="hero">
-
+<div class="hero" markdown="1">
 # ViSignMotion
 
-### A Vietnamese Sign Language Motion Dataset and Benchmark
+<div class="subtitle">Coming soon</div>
 
-<p class="authors">
-  Author Name<sup>1</sup> · Author Name<sup>2</sup> · Author Name<sup>1</sup>
-</p>
+<div class="authors">
+  <strong>Author Name</strong> · <strong>Author Name</strong> · <strong>Author Name</strong>
+</div>
 
-<p class="affiliations">
-  <sup>1</sup>Institution Name &nbsp;&nbsp; <sup>2</sup>Institution Name
-</p>
-
-<p class="venue">
-  Conference / Journal / Workshop, 2026
-</p>
+<div class="affiliations">
+  Your University / Lab · Coming soon
+</div>
 
 <div class="button-row">
-  <a class="project-button" href="#">📄 Paper</a>
-  <a class="project-button" href="#">💻 Code</a>
-  <a class="project-button" href="#">📦 Data</a>
-  <a class="project-button" href="#">🎬 Video</a>
+  <a class="project-button" href="#paper">Paper</a>
+  <a class="project-button" href="#code">Code</a>
+  <a class="project-button" href="#data">Data</a>
+  <a class="project-button" href="#video">Video</a>
 </div>
-
 </div>
-
-<section id="overview">
-
-## Overview
-
-<p class="coming-soon">Coming soon.</p>
-
-</section>
-
-<section id="videos">
 
 ## Videos
 
-<p class="coming-soon">Coming soon.</p>
-
-</section>
-
-<section id="abstract">
+<div class="coming-soon">Coming soon</div>
 
 ## Abstract
 
-<p class="coming-soon">Coming soon.</p>
-
-</section>
-
-<section id="dataset">
-
-## Dataset
-
-<p class="coming-soon">Coming soon.</p>
-
-</section>
-
-<section id="dataset-modality">
+<div class="coming-soon">Coming soon</div>
 
 ## Dataset Modality
 
-<p class="coming-soon">Coming soon.</p>
-
-</section>
-
-<section id="motion-annotations">
+<div class="coming-soon">Coming soon</div>
 
 ## Motion Annotations
 
-<p class="coming-soon">Coming soon.</p>
+<div class="coming-soon">Coming soon</div>
 
-</section>
+## Application
 
-<section id="benchmark">
-
-## Benchmark
-
-<p class="coming-soon">Coming soon.</p>
-
-</section>
-
-<section id="applications">
-
-## Applications
-
-<p class="coming-soon">Coming soon.</p>
-
-</section>
-
-<section id="bibtex">
+<div class="coming-soon">Coming soon</div>
 
 ## BibTeX
 
 ```bibtex
-@article{visignmotion2026,
-  title   = {ViSignMotion: A Vietnamese Sign Language Motion Dataset and Benchmark},
-  author  = {Author Name and Author Name and Author Name},
-  journal = {Coming soon},
-  year    = {2026}
-}
+Coming soon
 ```
-
-</section>
-
-<section id="contact">
 
 ## Contact
 
-<p class="coming-soon">Coming soon.</p>
-
-</section>
+<div class="coming-soon">Coming soon</div>
 
 </div>
