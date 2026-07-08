@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #222222;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.project-page {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 36px 20px 64px;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 42px;
+}
+
+.hero h1 {
+  margin: 0 0 12px;
+  font-size: 2.6rem;
+  line-height: 1.2;
+  font-weight: 750;
+}
+
+.subtitle {
+  margin: 10px 0 16px;
+  color: #555555;
+  font-size: 1.08rem;
+}
+
+.authors,
+.affiliations {
+  margin: 8px 0;
+  color: #333333;
+}
+
+.button-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.project-button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 999px;
+  background: #222222;
+  color: #ffffff !important;
+  text-decoration: none !important;
+  font-weight: 650;
+  font-size: 0.95rem;
+}
+
+.project-button:hover {
+  background: #444444;
+}
+
+h2 {
+  margin-top: 46px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #dddddd;
+  font-size: 1.45rem;
+}
+
+.coming-soon {
+  color: #666666;
+  font-style: italic;
+  margin: 14px 0 0;
+}
+
+pre {
+  padding: 16px;
+  overflow: auto;
+  border-radius: 8px;
+  background: #f6f8fa;
+}
